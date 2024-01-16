@@ -1,2 +1,2 @@
 # docker-kafka
-Kafka cluster for DS104
+Setup a Kafka cluster in Docker
